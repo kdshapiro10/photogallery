@@ -5,6 +5,7 @@ html {
 
 header {
     background-color:#000000;
+
 }
 
 
@@ -70,6 +71,7 @@ label {
 #contact {
     background-color: #000000;
     padding-top:1px;
+    padding-bottom:2em;
 }
 
 #contact > h2 {
@@ -81,3 +83,7 @@ label {
     color:#ffffff;
 }
 
+footer {
+    color:#ffffff;
+    text-align:center;
+}

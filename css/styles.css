@@ -42,6 +42,11 @@ main {
     background-color:#007d7b;
 }
 
+a {
+    color:#ffffff;
+    text-decoration:none;
+    float: right;
+}
 
 
 h1 {
@@ -55,6 +60,12 @@ h2 {
     font-size:40px;
 
 }
+
+label {
+    color:#007d7b;
+    
+}
+
 
 #contact {
     background-color: #000000;
